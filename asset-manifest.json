@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/yt-react-to-do-hooks/static/css/main.66669dfe.chunk.css",
+    "main.js": "/yt-react-to-do-hooks/static/js/main.d9af345d.chunk.js",
+    "main.js.map": "/yt-react-to-do-hooks/static/js/main.d9af345d.chunk.js.map",
+    "runtime-main.js": "/yt-react-to-do-hooks/static/js/runtime-main.29bf1524.js",
+    "runtime-main.js.map": "/yt-react-to-do-hooks/static/js/runtime-main.29bf1524.js.map",
+    "static/js/2.67829947.chunk.js": "/yt-react-to-do-hooks/static/js/2.67829947.chunk.js",
+    "static/js/2.67829947.chunk.js.map": "/yt-react-to-do-hooks/static/js/2.67829947.chunk.js.map",
+    "index.html": "/yt-react-to-do-hooks/index.html",
+    "static/css/main.66669dfe.chunk.css.map": "/yt-react-to-do-hooks/static/css/main.66669dfe.chunk.css.map",
+    "static/js/2.67829947.chunk.js.LICENSE.txt": "/yt-react-to-do-hooks/static/js/2.67829947.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.29bf1524.js",
+    "static/js/2.67829947.chunk.js",
+    "static/css/main.66669dfe.chunk.css",
+    "static/js/main.d9af345d.chunk.js"
+  ]
+}
