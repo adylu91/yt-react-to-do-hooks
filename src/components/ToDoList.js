@@ -1,9 +1,15 @@
-import { v4 as uuidv4 } from "uuid";
+import ToDoItem from "./ToDoItem";
 
-export default function ToDoList({ toDoItems }) {
+export default function ToDoList({ toDoItems, deleteItem }) {
   const items = toDoItems.map((item) => {
-    return <div key={uuidv4()}>{item}</div>;
+    return (
+      <ToDoItem
+        item={item.text}
+        key={item.id}
+        id={item.id}
+        deleteItem={deleteItem}
+      />
+    );
   });
-
   return <div>{items}</div>;
 }

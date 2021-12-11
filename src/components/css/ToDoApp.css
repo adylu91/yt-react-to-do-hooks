@@ -1,0 +1,8 @@
+.app-wrapper {
+  background-color: lightcyan;
+  padding: 10px;
+  margin: 10px;
+  max-width: 600px;
+  min-width: 350px;
+  flex-grow: 1;
+}
